@@ -183,11 +183,11 @@
             //     console.log("Number is "+ count);
             // }
 
-            for(let i=0,j=5;i<5;i++,j--){
-                console.log(i+" and "+ j);
-            }
+            // for(let i=0,j=5;i<5;i++,j--){
+            //     console.log(i+" and "+ j);
+            // }
             
-            // for in loop
+            //for in loop
 
             // const obj = {a:5,b:6,c:8,h:10}
 
@@ -198,3 +198,58 @@
             //     console.log(o + " : " + obj[o]);
                 
             // }
+            // for...of loop
+
+            // let array = [1,2,3,4,5];
+            // for(let value of array)
+            // {   //value+=1 //increaseing value of array 
+            //     console.log(value);
+            // }
+            
+            //Js Expressions
+            // let y,j;  //Declare variable y
+            // j = y = 4*5;//combine three expressions multiplication (*) and assignment(=)
+            // j=y=20;// Evaluate multiplication
+            // j=20; //assign 20value to variable to Y
+            //         //j is still undefined
+            // 20;//assign 20 variable value to the variable j
+            // console.log(y);
+            // console.log(j);
+
+            //JS Operator's
+
+            //Addition
+            //console.log(5+3);
+            
+            //Substraction
+            //console.log(5-2);
+
+            //multiplication
+            //console.log(6*8);
+            
+            //division
+            //console.log(10/5);
+            
+            //Reminder
+            //console.log(10%3);// will be 1
+            
+            //unary negation
+            //if y=10 then -y will be -10
+            
+            //unary plus
+            //if y=-10 then +y will be +10
+            
+            //pre and post increment
+            // let j,
+            // x = 5;
+            // j = ++x;//Pre-increment
+            // console.log(j + "with Pre increment");//will be 6
+
+            // let j,
+            // x = 5;
+            // j = x++;//Post-increment
+            // console.log(j + " with Post increment");//will be 5
+            // j = x++;//Post-increment
+            // console.log(j + " with Post increment");//will be 6
+
+
