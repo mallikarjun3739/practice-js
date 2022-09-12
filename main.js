@@ -183,9 +183,9 @@
             //     console.log("Number is "+ count);
             // }
 
-            // for(let i=0,j=5;i<5;i++,j--){
-            //     console.log(i+" and "+ j);
-            // }
+            for(let i=0,j=5;i<5;i++,j--){
+                console.log(i+" and "+ j);
+            }
             
             // for in loop
 
