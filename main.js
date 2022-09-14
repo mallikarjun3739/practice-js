@@ -168,6 +168,12 @@
             //     count++;
             // }
 
+            // let count = 10;
+            // while(count>=0){
+            //     console.log(count);
+            //     count--;
+            // }
+
             //do while loop
 
             // let count = 0
@@ -252,4 +258,27 @@
             // j = x++;//Post-increment
             // console.log(j + " with Post increment");//will be 6
 
+            //Logical Operator
+            
+            // let x= 10;
+            //     y =10;
+            // if(x===10 && y===10){
+            //     console.log("true");
+            // }else{
+            //     console.log("false");
+            // }
+            
+            //OR Operator
+            
+            // let x= 10;
+            //     y =10;
+            // if(x===10 || y===10){
+            //     console.log("true");
+            // }else{
+            //     console.log("false");
+            // }
 
+            //NOT Operator
+
+            // let x = true;
+            // console.log(!x);//invert value of the z boolean variable to false
