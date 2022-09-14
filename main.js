@@ -280,5 +280,5 @@
 
             //NOT Operator
 
-            // let x = true;
-            // console.log(!x);//invert value of the z boolean variable to false
+             let x = true;
+            console.log(!x);//invert value of the z boolean variable to false
